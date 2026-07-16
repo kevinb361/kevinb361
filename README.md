@@ -4,13 +4,15 @@ Linux sysadmin interested in networking, automation, homelabs, and local AI.
 
 I build tools for problems I actually have: operating networks, tuning local LLM inference, and making AI-assisted development more inspectable.
 
-## Projects
+## What I work on
 
-- [saga](https://github.com/kevinb361/saga) — Lean files-of-record for AI-assisted coding
-- [vllm-tune](https://github.com/kevinb361/vllm-tune) — Benchmark harness and lab notebook for local vLLM inference
-- [wanctl](https://github.com/kevinb361/wanctl) — Adaptive CAKE bandwidth control for MikroTik RouterOS
-- [dotfiles](https://github.com/kevinb361/dotfiles) — Zsh, tmux, Neovim, and Blackout Moss terminal configuration
-- [netbox-automation](https://github.com/kevinb361/netbox-automation) — Network discovery and NetBox/DNS automation
+Most of my public work falls around:
+
+- Network automation and traffic management
+- Local LLM inference and agentic workflows
+- Linux tooling and development environments
+
+Selected projects are pinned below.
 
 ## Current interests
 
