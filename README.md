@@ -15,10 +15,6 @@ infrastructure, and making agent-assisted development less opaque.
   network assets, reconciles their identities, and syncs them into NetBox and
   DNS.
 
-I also contribute to open-source AI tooling, including
-[Hermes Agent](https://github.com/NousResearch/hermes-agent) and
-[LiteLLM](https://github.com/BerriAI/litellm).
-
 ## How I build
 
 I prefer boring foundations and weird experiments at the edges.
