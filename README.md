@@ -1,19 +1,27 @@
 # Kevin
 
-Linux sysadmin interested in networking, automation, homelabs, and local AI.
+Linux sysadmin building inspectable tools for operating networks, tuning local AI
+infrastructure, and making agent-assisted development less opaque.
 
-I build tools for problems I actually have: operating networks, tuning local LLM inference, and making AI-assisted development more inspectable.
+## Selected work
 
-## What I work on
+- [wanctl](https://github.com/kevinb361/wanctl) keeps latency stable while
+  automatically adapting CAKE bandwidth on MikroTik networks.
+- [vllm-tune](https://github.com/kevinb361/vllm-tune) turns local LLM inference
+  tuning into reproducible benchmark evidence.
+- [saga](https://github.com/kevinb361/saga) provides lean, durable files of
+  record for AI-assisted coding.
+- [netbox-automation](https://github.com/kevinb361/netbox-automation) discovers
+  network assets, reconciles their identities, and syncs them into NetBox and
+  DNS.
 
-- Network automation and traffic management
-- Local LLM inference and agentic workflows
-- Linux tooling and development environments
-
-Selected projects are pinned below.
+I also contribute to open-source AI tooling, including
+[Hermes Agent](https://github.com/NousResearch/hermes-agent) and
+[LiteLLM](https://github.com/BerriAI/litellm).
 
 ## How I build
 
 I prefer boring foundations and weird experiments at the edges.
 
-Strong defaults over infinite knobs. Live evidence over assumptions. Useful and inspectable over clever and opaque.
+Strong defaults over infinite knobs. Live evidence over assumptions. Useful and
+inspectable over clever and opaque.
