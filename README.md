@@ -1,7 +1,7 @@
 # Kevin
 
-Linux sysadmin building inspectable tools for operating networks, tuning local AI
-infrastructure, and making agent-assisted development less opaque.
+Linux sysadmin interested in networking, automation, homelabs, and local AI.
+Most of these projects started as tools for my own setup.
 
 ## Selected work
 
